@@ -69,3 +69,35 @@ class SomeClass:
 >>> message = '''interpreter
 ... prompt'''
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi | Burgos | 12345 |
+| Tomas | Thompson | 1234 |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita
+
+Esto es otro texto que no se relaciona con el texto anterior:
+>Esto es otra cita
+
+# Lineas divisoras
+Esto es un texto que sera dividido por guiones medios.
+
+---
+Esto es otro texto dividido por asteriscos.
+
+***
+Esto es un texto dividido por guines bajos
+
+___
+
+# Saltos de linea
+Esto es nuestro primer texto.
+
+Esto es nuestro segundo texto.
+
+Esto es nuestro tercero texto.
+
